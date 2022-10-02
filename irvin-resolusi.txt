@@ -2,3 +2,5 @@ IRVIN RESOLUSI
 - Test platform
 - Belajar
 - Create
+- Membuat game shop
+- Kolaborasi test
